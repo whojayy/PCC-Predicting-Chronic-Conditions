@@ -1,0 +1,29 @@
+# Large dataset files
+Dataset/pumf_cchs.csv
+
+# Other large files (>30MB)
+Dataset/filtered_decoded_data.csv
+Dataset/final_cleaned_data.csv
+Dataset/selected_decoded_data.csv
+Dataset/cleaned_transformed_data.csv
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE-related files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-related files
+.DS_Store
+Thumbs.db

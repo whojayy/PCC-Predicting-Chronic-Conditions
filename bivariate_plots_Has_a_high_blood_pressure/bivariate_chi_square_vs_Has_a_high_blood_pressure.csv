@@ -1,0 +1,31 @@
+Feature,p-value
+Age Group,0.0
+Sex at Birth,0.106
+Marital Status,0.0
+Considered suicide - lifetime,0.0
+Considered suicide - last 12 months,0.0
+Smoking status,0.0
+Severity of Canabis Dependence,0.0
+Used cannabis - 12 months,0.0
+Usual place for immediate care for minor problem,0.0
+Total Household Income - All Sources,0.0
+BMI classification for adults aged 18 and over (adjusted) - international,0.0
+Pain health status,0.0
+Perceived health ,0.0
+Perceived mental health ,0.0
+Satisfaction with life in general ,0.0
+Had a seasonal flu shot (excluding H1N1) - lifetime,0.0
+Seasonal flu shot - last time,0.0
+Type of drinker,0.0
+Drank 5+ / 4+ drinks one occasion - frequency - 12 months,0.0
+Has sleep apnea,0.0
+Has high blood cholesterol / lipids,0.0
+High blood cholesterol / lipids - took medication - 1 month,0.0
+Has chronic fatigue syndrome,0.0
+"Has a mood disorder (depression, bipolar, mania, dysthymia)",0.0132
+"Has an anxiety disorder (phobia, OCD, panic)",0.0126
+Has respiratory chronic condition (asthma or COPD),0.0
+"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)",0.0
+High blood pressure - took medication - 1 month,0.0
+Has diabetes,0.0
+Cardiovascular condition (Heart disease or stroke),0.0

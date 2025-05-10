@@ -1,0 +1,158 @@
+S. No.,Feature,Level,Frequency,Proportion (%),First Mode
+1,Age Group,65 and older,47967,47.14,65 and older
+1,Age Group,50 to 64 years,21684,21.31,
+1,Age Group,35 to 49 years,16825,16.54,
+1,Age Group,18 to 34 years,15277,15.01,
+2,Sex at Birth,Female,55795,54.83,Female
+2,Sex at Birth,Male,45958,45.17,
+3,Marital Status,Married/Common-law,55861,54.9,Married/Common-law
+3,Marital Status,"Widowed/Divorced/Separated/Single, never married",45517,44.73,
+3,Marital Status,Not stated,375,0.37,
+4,Considered suicide - lifetime,No,86422,84.93,No
+4,Considered suicide - lifetime,Yes,11645,11.44,
+4,Considered suicide - lifetime,Not stated,3304,3.25,
+4,Considered suicide - lifetime,Refusal,237,0.23,
+4,Considered suicide - lifetime,Don’t know,145,0.14,
+5,Considered suicide - last 12 months,Valid skip,86422,84.93,Valid skip
+5,Considered suicide - last 12 months,No,9379,9.22,
+5,Considered suicide - last 12 months,Not stated,3686,3.62,
+5,Considered suicide - last 12 months,Yes,2248,2.21,
+5,Considered suicide - last 12 months,Don’t know,13,0.01,
+5,Considered suicide - last 12 months,Refusal,5,0.0,
+6,Smoking status,Lifetime abstainer (never smoked),38239,37.58,Lifetime abstainer (never smoked)
+6,Smoking status,Former daily smoker (non-smoker now),31042,30.51,
+6,Smoking status,"Experimental smoker (at least 1 cig, non-smoker now)",13019,12.79,
+6,Smoking status,Current daily smoker,10226,10.05,
+6,Smoking status,Not stated,3799,3.73,
+6,Smoking status,Former occasional smoker (non-smoker now),3393,3.33,
+6,Smoking status,Current occasional smoker,2035,2.0,
+7,Severity of Canabis Dependence,Valid skip,80483,79.1,Valid skip
+7,Severity of Canabis Dependence,0,13693,13.46,
+7,Severity of Canabis Dependence,Not stated,3868,3.8,
+7,Severity of Canabis Dependence,1,1512,1.49,
+7,Severity of Canabis Dependence,2,862,0.85,
+7,Severity of Canabis Dependence,3,587,0.58,
+7,Severity of Canabis Dependence,4,265,0.26,
+7,Severity of Canabis Dependence,5,164,0.16,
+7,Severity of Canabis Dependence,6,124,0.12,
+7,Severity of Canabis Dependence,7,59,0.06,
+7,Severity of Canabis Dependence,8,42,0.04,
+7,Severity of Canabis Dependence,9,35,0.03,
+7,Severity of Canabis Dependence,10,27,0.03,
+7,Severity of Canabis Dependence,12,12,0.01,
+7,Severity of Canabis Dependence,11,11,0.01,
+7,Severity of Canabis Dependence,13,5,0.0,
+7,Severity of Canabis Dependence,14,2,0.0,
+7,Severity of Canabis Dependence,15,2,0.0,
+8,Used cannabis - 12 months,No,79906,78.53,No
+8,Used cannabis - 12 months,Yes,15141,14.88,
+8,Used cannabis - 12 months,Not stated,6672,6.56,
+8,Used cannabis - 12 months,Don’t know,20,0.02,
+8,Used cannabis - 12 months,Refusal,14,0.01,
+9,Usual place for immediate care for minor problem,Yes,92260,90.67,Yes
+9,Usual place for immediate care for minor problem,No,9178,9.02,
+9,Usual place for immediate care for minor problem,Don’t know,198,0.19,
+9,Usual place for immediate care for minor problem,Refusal,117,0.11,
+10,Total Household Income - All Sources,"$80,000 or more",44849,44.08,"$80,000 or more"
+10,Total Household Income - All Sources,"$20,000 to $39,999",17884,17.58,
+10,Total Household Income - All Sources,"$40,000 to $59,999",17044,16.75,
+10,Total Household Income - All Sources,"$60,000 to $79,999",14081,13.84,
+10,Total Household Income - All Sources,"No income or less than $20,000",5841,5.74,
+10,Total Household Income - All Sources,Not stated,2054,2.02,
+11,BMI age 12 to 17 (self-reported) - WHO classification,Valid skip,101753,100.0,Valid skip
+12,BMI classification for adults aged 18 and over (adjusted) - international,"Overweight / Obese - Class I, II, III",63977,62.87,"Overweight / Obese - Class I, II, III"
+12,BMI classification for adults aged 18 and over (adjusted) - international,Underweight/ Normal weight,30094,29.58,
+12,BMI classification for adults aged 18 and over (adjusted) - international,Not stated,7682,7.55,
+13,Pain health status,No usual pain or discomfort,70950,69.73,No usual pain or discomfort
+13,Pain health status,Has usual pain or discomfort,30480,29.95,
+13,Pain health status,Not stated,323,0.32,
+14,Perceived health ,Very good,36565,35.94,Very good
+14,Perceived health ,Good,30248,29.73,
+14,Perceived health ,Excellent,18863,18.54,
+14,Perceived health ,Fair,11532,11.33,
+14,Perceived health ,Poor,4383,4.31,
+14,Perceived health ,Not stated,162,0.16,
+15,Perceived mental health ,Very good,36617,35.99,Very good
+15,Perceived mental health ,Excellent,28170,27.68,
+15,Perceived mental health ,Good,25177,24.74,
+15,Perceived mental health ,Fair,6612,6.5,
+15,Perceived mental health ,Not stated,3475,3.42,
+15,Perceived mental health ,Poor,1702,1.67,
+16,Satisfaction with life in general ,Satisfied,50147,49.28,Satisfied
+16,Satisfaction with life in general ,Very Satisfied,39042,38.37,
+16,Satisfaction with life in general ,Neither satisfied nor dissatisfied,5460,5.37,
+16,Satisfaction with life in general ,Not stated,3932,3.86,
+16,Satisfaction with life in general ,Dissatisfied,2486,2.44,
+16,Satisfaction with life in general ,Very Dissatisfied,686,0.67,
+17,Had a seasonal flu shot (excluding H1N1) - lifetime,Yes,66409,65.26,Yes
+17,Had a seasonal flu shot (excluding H1N1) - lifetime,No,31705,31.16,
+17,Had a seasonal flu shot (excluding H1N1) - lifetime,Not stated,3304,3.25,
+17,Had a seasonal flu shot (excluding H1N1) - lifetime,Don’t know,294,0.29,
+17,Had a seasonal flu shot (excluding H1N1) - lifetime,Refusal,41,0.04,
+18,Seasonal flu shot - last time,Less than 1 year ago,44534,43.77,Less than 1 year ago
+18,Seasonal flu shot - last time,Valid skip,31705,31.16,
+18,Seasonal flu shot - last time,2 years ago or more,16638,16.35,
+18,Seasonal flu shot - last time,1 year to less than 2 years ago,5060,4.97,
+18,Seasonal flu shot - last time,Not stated,3639,3.58,
+18,Seasonal flu shot - last time,Don’t know,172,0.17,
+18,Seasonal flu shot - last time,Refusal,5,0.0,
+19,Type of drinker,Regular drinker,59167,58.15,Regular drinker
+19,Type of drinker,Did not drink in the last 12 months,24335,23.92,
+19,Type of drinker,Occasional drinker,17839,17.53,
+19,Type of drinker,Not stated,412,0.4,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Never,41835,41.11,Never
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Valid skip,24335,23.92,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Less than once a month,18730,18.41,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Once a month,5758,5.66,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,2-3 times a month,4608,4.53,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Once a week,3259,3.2,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,More than once a week,2639,2.59,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Don’t know,415,0.41,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Not stated,107,0.11,
+20,Drank 5+ / 4+ drinks one occasion - frequency - 12 months,Refusal,67,0.07,
+21,Has sleep apnea,No,92701,91.1,No
+21,Has sleep apnea,Yes,8837,8.68,
+21,Has sleep apnea,Don’t know,191,0.19,
+21,Has sleep apnea,Refusal,24,0.02,
+22,Has high blood cholesterol / lipids,No,81233,79.83,No
+22,Has high blood cholesterol / lipids,Yes,19266,18.93,
+22,Has high blood cholesterol / lipids,Don’t know,1200,1.18,
+22,Has high blood cholesterol / lipids,Refusal,54,0.05,
+23,High blood cholesterol / lipids - took medication - 1 month,No,78276,76.93,No
+23,High blood cholesterol / lipids - took medication - 1 month,Yes,23056,22.66,
+23,High blood cholesterol / lipids - took medication - 1 month,Don’t know,389,0.38,
+23,High blood cholesterol / lipids - took medication - 1 month,Refusal,32,0.03,
+24,Has chronic fatigue syndrome,No,99525,97.81,No
+24,Has chronic fatigue syndrome,Yes,1999,1.96,
+24,Has chronic fatigue syndrome,Don’t know,208,0.2,
+24,Has chronic fatigue syndrome,Refusal,21,0.02,
+25,"Has a mood disorder (depression, bipolar, mania, dysthymia)",No,91633,90.05,No
+25,"Has a mood disorder (depression, bipolar, mania, dysthymia)",Yes,9937,9.77,
+25,"Has a mood disorder (depression, bipolar, mania, dysthymia)",Don’t know,143,0.14,
+25,"Has a mood disorder (depression, bipolar, mania, dysthymia)",Refusal,40,0.04,
+26,"Has an anxiety disorder (phobia, OCD, panic)",No,92096,90.51,No
+26,"Has an anxiety disorder (phobia, OCD, panic)",Yes,9465,9.3,
+26,"Has an anxiety disorder (phobia, OCD, panic)",Don’t know,149,0.15,
+26,"Has an anxiety disorder (phobia, OCD, panic)",Refusal,43,0.04,
+27,Has respiratory chronic condition (asthma or COPD),No,88258,86.74,No
+27,Has respiratory chronic condition (asthma or COPD),Yes,8368,8.22,
+27,Has respiratory chronic condition (asthma or COPD),Not stated,5127,5.04,
+28,"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)",No,63874,62.77,No
+28,"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)",Yes,33340,32.77,
+28,"Musculoskeletal condition (Arthritis, fibromyalgia, osteoporosis)",Not stated,4539,4.46,
+29,High blood pressure - took medication - 1 month,No,69017,67.83,No
+29,High blood pressure - took medication - 1 month,Yes,32504,31.94,
+29,High blood pressure - took medication - 1 month,Don’t know,206,0.2,
+29,High blood pressure - took medication - 1 month,Refusal,26,0.03,
+30,Has a high blood pressure,No,72091,70.85,No
+30,Has a high blood pressure,Yes,29319,28.81,
+30,Has a high blood pressure,Don’t know,317,0.31,
+30,Has a high blood pressure,Refusal,26,0.03,
+31,Has diabetes,No,89327,87.79,No
+31,Has diabetes,Yes,9826,9.66,
+31,Has diabetes,Not stated,2469,2.43,
+31,Has diabetes,Don’t know,107,0.11,
+31,Has diabetes,Refusal,24,0.02,
+32,Cardiovascular condition (Heart disease or stroke),No,87791,86.28,No
+32,Cardiovascular condition (Heart disease or stroke),Yes,10002,9.83,
+32,Cardiovascular condition (Heart disease or stroke),Not stated,3960,3.89,
