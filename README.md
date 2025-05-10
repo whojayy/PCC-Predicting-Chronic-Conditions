@@ -143,12 +143,6 @@ streamlit run app.py
 - matplotlib
 - seaborn
 
-## Contributors
-
-- Jay Mewada 
-- Shubhpreet 
-- Prabuddha Deore 
-
 ## References
 
 - Statistics Canada. 2020. Canadian Community Health Survey (CCHS) 2019–2020 Public Use Microdata File. Statistics Canada.
