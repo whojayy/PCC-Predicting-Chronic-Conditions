@@ -27,7 +27,7 @@ The following diagram illustrates the complete workflow of our project, from dat
 
 ## Interactive Streamlit Application
 
-We've developed an interactive web application using Streamlit that allows users to input their health information and receive personalized risk assessments for high blood pressure, diabetes, and cardiovascular disease.
+I've developed an interactive web application using Streamlit that allows users to input their health information and receive personalized risk assessments for high blood pressure, diabetes, and cardiovascular disease.
 
 ### Application Features:
 
@@ -40,6 +40,8 @@ We've developed an interactive web application using Streamlit that allows users
 ### Streamlit Application Screenshot:
 
 ![Progressive Health Risk Predictor UI](stramlit_UI.png)
+
+![Progressive Health Risk Predictor Output](Output.png)
 
 ### How the Application Works:
 
