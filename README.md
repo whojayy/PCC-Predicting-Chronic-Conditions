@@ -16,6 +16,7 @@ The following diagram illustrates the complete workflow of our project, from dat
 
 ![PCC Project Flow Diagram](flow_diagram.png)
 
+
 ## Key Features
 
 - **Multi-target prediction** for three chronic conditions
@@ -23,6 +24,30 @@ The following diagram illustrates the complete workflow of our project, from dat
 - **Progressive prediction** allowing partial information input
 - **Threshold-optimized** classification using Youden's J statistic
 - **Deployment-ready** with Streamlit interface
+
+## Interactive Streamlit Application
+
+We've developed an interactive web application using Streamlit that allows users to input their health information and receive personalized risk assessments for high blood pressure, diabetes, and cardiovascular disease.
+
+### Application Features:
+
+- **User-friendly Interface**: Clean, intuitive design with organized input sections
+- **Progressive Risk Assessment**: Follows the clinical progression pattern of chronic conditions
+- **Real-time Predictions**: Instant feedback on health risks with probability scores
+- **Visual Risk Indicators**: Gauge charts and color-coded results for easy interpretation
+- **Privacy-focused**: All data is processed locally and not stored or shared
+
+### Streamlit Application Screenshot:
+
+![Progressive Health Risk Predictor UI](stramlit_UI.png)
+
+### How the Application Works:
+
+1. Users input their demographic and health information through an intuitive form
+2. The application processes this information through our trained machine learning models
+3. Risk predictions are calculated for each condition following the progressive model
+4. Results are displayed with probability scores and visual indicators
+5. Users can explore different scenarios by modifying their inputs
 
 ## CRISP-DM Methodology
 
@@ -96,6 +121,7 @@ This project follows the Cross-Industry Standard Process for Data Mining (CRISP-
 
 ### Threshold Optimization
 Modified Youden's J statistic [maximizing (Recall + Precision - 1)] substantially improved recall of our final Logistic Regression models, prioritizing early detection while accepting a minor trade-off in precision.
+
 
 ## Usage
 
