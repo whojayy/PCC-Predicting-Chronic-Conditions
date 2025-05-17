@@ -39,9 +39,9 @@ I've developed an interactive web application using Streamlit that allows users 
 
 ### Streamlit Application Screenshot:
 
-![Progressive Health Risk Predictor UI](stramlit_UI.png)
+![Progressive Health Risk Predictor UI](stramlit_UI.jpg)
 
-![Progressive Health Risk Predictor Output](Output.png)
+![Progressive Health Risk Predictor Output](Output.jpg)
 
 ### How the Application Works:
 
