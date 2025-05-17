@@ -16,6 +16,10 @@ The following diagram illustrates the complete workflow of our project, from dat
 
 ![PCC Project Flow Diagram](flow_diagram.png)
 
+## Dataset
+Statastics Canadian Community Health Survey (CCHS) 2019–2020 dataset with over 100 Thousand Rows and ~700 Features, entire Dataset was fully encripted, took the help of documnentations for decription. Various feature with various domain and value types. Applied Statastic methods to do feature engineering.
+![Graph 1](Graph1.jpg)
+![Graph 2](Graph2.jpg)
 
 ## Key Features
 
@@ -24,6 +28,12 @@ The following diagram illustrates the complete workflow of our project, from dat
 - **Progressive prediction** allowing partial information input
 - **Threshold-optimized** classification using Youden's J statistic
 - **Deployment-ready** with Streamlit interface
+
+# Models 
+- Used Traditional as well as deep neral ml models
+
+![AUC_ROC](AUC_ROC.jpg)
+![Precision Recall](Precision-Recall.jpg)
 
 ## Interactive Streamlit Application
 
