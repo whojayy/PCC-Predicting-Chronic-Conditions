@@ -18,8 +18,9 @@ The following diagram illustrates the complete workflow of our project, from dat
 
 ## Dataset
 Statastics Canadian Community Health Survey (CCHS) 2019–2020 dataset with over 100 Thousand Rows and ~700 Features, entire Dataset was fully encripted, took the help of documnentations for decription. Various feature with various domain and value types. Applied Statastic methods to do feature engineering.
-![Graph 1](Graph1.jpg)
 ![Graph 2](Graph2.jpg)
+![Graph 1](Graph1.jpg)
+
 
 ## Key Features
 
@@ -30,7 +31,7 @@ Statastics Canadian Community Health Survey (CCHS) 2019–2020 dataset with over
 - **Deployment-ready** with Streamlit interface
 
 # Models 
-- Used Traditional as well as deep neral ml models
+- Used Traditional as well as deep neural ml models
 
 ![AUC_ROC](AUC_ROC.jpg)
 ![Precision Recall](Precision-Recall.jpg)
